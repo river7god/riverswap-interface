@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6c912a2ced50e371e62da35e56382e7",
+    "revision": "d6ee3f043fd79a63d7269e73588a8eb4",
     "url": "/riverswap-interface/index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/riverswap-interface/static/js/9.991d47e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "84d301e58f1b6a3c7bdb",
-    "url": "/riverswap-interface/static/js/main.703ceb0b.chunk.js"
+    "revision": "a52f562a55f11cfadfa7",
+    "url": "/riverswap-interface/static/js/main.cdb5c504.chunk.js"
   },
   {
     "revision": "ab9a1b498d5ef7afd26a",
